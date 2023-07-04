@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.mybd.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/onboardings"
+        android:name="com.example.mybd.onboardings"
+        android:label="@string/menu_onboardings"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/menu_int"
+        android:name="com.example.mybd.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_int"
+        tools:layout="@layout/fragment_onboardings" />
+    <fragment
+        android:id="@+id/nav_geo"
+        android:name="com.example.mybd.Geographical"
+        android:label="@string/Route"
+        tools:layout="@layout/fragment_geographical" />
+
+    <fragment
+        android:id="@+id/nav_reachout"
+        android:name="com.example.mybd.Reachout"
+        android:label="@string/My_Reachouts"
+        tools:layout="@layout/fragment_reachout" />
+    <fragment
+        android:id="@+id/Setting"
+        android:name="com.example.mybd.settings"
+        android:label="@string/Setting"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.example.mybd.Profile"
+        android:label="@string/profile"
+        tools:layout="@layout/fragment_profile" />
+</navigation>

@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">My BD</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_onboardings">My Onboardings</string>
+    <string name="menu_int">Intrested</string>
+    <string name="Performance">My Performance</string>
+    <string name="Route">Geographical Details</string>
+    <string name="Logout">Logout</string>
+    <string name="Setting">My setting</string>
+    <string name="profile">My Profile</string>
+    <string name="My_Reachouts">My Reachouts</string>
+    <string name="Name">Bishnu Kumar Mahato</string>
+    <string name="EMP">SSN012345</string>
+    <string name="Mobile">9155805104</string>
+    <string name="Email">Email</string>
+    <string name="punchfailed">You have not checked in </string>
+    <string name="select_state">Bihar </string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="punched_in">Punched In</string>
+    <string name="pending_interested">Pending Interested</string>
+    <string name="Login" />
+
+
+    <string-array name="states">
+        <item>Bihar</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Chhattisgarh</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Odisha</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttar Pradesh</item>
+        <item>Uttarakhand</item>
+        <item>West Bengal</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Chandigarh</item>
+        <item>Dadra and Nagar Haveli and Daman and Diu</item>
+        <item>Lakshadweep</item>
+        <item>Delhi</item>
+        <item>Puducherry</item>
+        <item>Jammu and Kashmir</item>
+        <item>Ladakh</item>
+        <item>Telangana</item>
+        <item>Ladakh</item>
+        <item>Lakshadweep</item>
+        <item>Puducherry</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Chandigarh</item>
+        <item>Dadra and Nagar Haveli and Daman and Diu</item>
+        <item>Delhi</item>
+        <item>Jammu and Kashmir</item>
+        <item>Lakshadweep</item>
+        <item>Ladakh</item>
+        <item>Puducherry</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Chandigarh</item>
+        <item>Dadra and Nagar Haveli and Daman and Diu</item>
+        <item>Delhi</item>
+        <item>Jammu and Kashmir</item>
+        <item>Ladakh</item>
+        <item>Lakshadweep</item>
+        <item>Puducherry</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Chandigarh</item>
+        <item>Dadra and Nagar Haveli and Daman and Diu</item>
+        <item>Delhi</item>
+        <item>Jammu and Kashmir</item>
+        <item>Ladakh</item>
+        <item>Lakshadweep</item>
+        <item>Puducherry</item>
+    </string-array>
+
+    <string-array name="status">
+        <item>Onboarded</item>
+        <item>Interested</item>
+        <item>Not Interested</item>
+        <item>Follow Up</item>
+        <item>Not Connected</item>
+    </string-array>
+
+
+    <string-array name="Mode">
+        <item>LMA</item>
+        <item>Fixed PAY</item>
+
+    </string-array>
+
+
+</resources>

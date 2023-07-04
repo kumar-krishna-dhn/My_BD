@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextstate" type="id" />
+    <item name="Status" type="id" />
+    <item name="SPINNERmode" type="id" />
+    <item name="text_reachout" type="id" />
+    <item name="text_intrested" type="id" />
+
+    <item name="text_onboarding" type="id" />
+    <item name="text_productivity" type="id" />
+
+    <item name="text_int" type="id" />
+    <item name="text_docsawaited" type="id" />
+
+    <item name="text_onb" type="id" />
+    <item name="buttonLogin" type="id" />
+    <item name="editTextPassword" type="id" />
+    <item name="editTextUsername" type="id" />
+    <item name="textViewData" type="id" />
+</resources>
